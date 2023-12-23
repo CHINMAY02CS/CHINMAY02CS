@@ -38,7 +38,6 @@
   <code><img title="React" height="25" src="react-original.svg"></code>
   <code><img title="Git" height="25" src="git-original.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="visualstudio.png"></code>
   <code><img title="GitHub" height="25" src="github.svg"></code>
   <code><img title="MySQL" height="25" src="mysql.svg"></code>
   <code><img title="npm" height="25" src="npm.svg"></code>
