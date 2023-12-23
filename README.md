@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
- <img src="https://github.com/CHINMAY02CS/CHINMAY02CS/blob/main/HEADER.png">
+ <img src="https://github.com/CHINMAY02CS/CHINMAY02CS/blob/main/headerc.png">
 
 </h1>
 
