@@ -27,17 +27,17 @@
 <br>
 <p align="center">
  <img title="C++" height="50" src="cpp.svg">
- <img title="Python" height="25" src="python-original.svg">
-  <code><img title="Javascript" height="25" src="javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="html5.svg"></code>
-  <code><img title="CSS" height="25" src="css.svg"></code>
-  <code><img title="React" height="25" src="react-original.svg"></code>
-  <code><img title="Git" height="25" src="git-original.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="vscode.png"></code>
-  <code><img title="GitHub" height="25" src="github.svg"></code>
-  <code><img title="MySQL" height="25" src="mysql.svg"></code>
-  <code><img title="npm" height="25" src="npm.svg"></code>
+ <img title="Python" height="50" src="python-original.svg">
+ <img title="Javascript" height="50" src="javascript.svg">
+  <img title="Problem Solving" height="50" src="problemSolving.png">
+  <img title="HTML5" height="50" src="html5.svg">
+  <img title="CSS" height="50" src="css.svg">
+  <img title="React" height="50" src="react-original.svg">
+  <img title="Git" height="50" src="git-original.svg">
+  <img title="Visual Studio Code" height="50" src="vscode.png">
+  <img title="GitHub" height="50" src="github.svg">
+  <img title="MySQL" height="50" src="mysql.svg">
+  <img title="npm" height="50" src="npm.svg">
 </p>
 
 
