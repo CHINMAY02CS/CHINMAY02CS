@@ -28,7 +28,6 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-
   <code><img title="C++" height="25" src="cpp.svg"></code>
   <code><img title="Python" height="25" src="python-original.svg"></code>
   <code><img title="Javascript" height="25" src="javascript.svg"></code>
@@ -42,7 +41,7 @@
   <code><img title="MySQL" height="25" src="mysql.svg"></code>
   <code><img title="npm" height="25" src="npm.svg"></code>
 </p>
-<hr>
+
 
 
 
