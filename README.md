@@ -30,14 +30,14 @@
   <img title="HTML5" height="50" src="html5.svg">&nbsp;&nbsp;
   <img title="CSS" height="50" src="css.svg">&nbsp;&nbsp;
  <img title="Javascript" height="50" src="javascript.svg">&nbsp;&nbsp;
- <img title="MongoDB" height="50" src="mongodb.png">
- <img title="Node Express" height="50" src="node.svg">
-  <img title="React" height="50" src="react-original.svg">
-  <img title="Git" height="50" src="git-original.svg">
-  <img title="Visual Studio Code" height="50" src="vscode.png">
-  <img title="GitHub" height="50" src="github.svg">
-  <img title="MySQL" height="50" src="mysql.svg">
-  <img title="npm" height="50" src="npm.svg">
+ <img title="MongoDB" height="50" src="mongodb.png">&nbsp;&nbsp;
+ <img title="Node Express" height="50" src="node.svg">&nbsp;&nbsp;
+  <img title="React" height="50" src="react-original.svg">&nbsp;&nbsp;
+  <img title="Git" height="50" src="git-original.svg">&nbsp;&nbsp;
+  <img title="Visual Studio Code" height="50" src="vscode.png">&nbsp;&nbsp;
+  <img title="GitHub" height="50" src="github.svg">&nbsp;&nbsp;
+  <img title="MySQL" height="50" src="mysql.svg">&nbsp;&nbsp;
+  <img title="npm" height="50" src="npm.svg">&nbsp;&nbsp;
  <img title="Problem Solving" height="50" src="problemSolving.png">
 </p>
 
