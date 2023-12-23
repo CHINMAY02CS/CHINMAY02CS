@@ -1,0 +1,48 @@
+const linkPreview = require('link-preview-js');
+
+// Example links
+const linksToCheck = [
+  'https://www.instagram.com/artcartbydiksha/',
+  'https://medium.com/@dr-bartosz-jaworski',
+];
+
+// Custom user-agents to try
+const userAgents = ['Googlebot', 'Twitterbot'];
+
+// Function to fetch link preview with custom user-agent
+async function getLinkPreviewWithUserAgent(url, userAgent) {
+  try {
+    const options = {
+      imagesPropertyType: 'og', // or 'general'
+      imagesPropertyTypeArray: false,
+      headers: {
+        'User-Agent': userAgent,
+      },
+    };
+
+    const previewData = await linkPreview.getLinkPreview(url, options);
+    return previewData;
+  } catch (error) {
+    console.error('Error fetching link preview:', error.message);
+    return null;
+  }
+}
+
+// Function to iterate through links and user-agents
+async function fetchLinkPreviews() {
+  for (const link of linksToCheck) {
+    for (const userAgent of userAgents) {
+      const previewData = await getLinkPreviewWithUserAgent(link, userAgent);
+      if (previewData) {
+        console.log(`Link: ${link}`);
+        console.log(`User-Agent: ${userAgent}`);
+        console.log('Preview Data:', previewData);
+        console.log('-----------------------');
+        break; // Move to the next link after obtaining the preview
+      }
+    }
+  }
+}
+
+// Execute the function
+fetchLinkPreviews();
