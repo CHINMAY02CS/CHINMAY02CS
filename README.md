@@ -1,7 +1,5 @@
 
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
-
 <h1 align="center">
  <img src="https://github.com/CHINMAY02CS/CHINMAY02CS/blob/main/HEADER.png">
 
@@ -28,7 +26,7 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="C++" height="25" src="cpp.svg"></code>
+  <code><img title="C++" height="50" src="cpp.svg"></code>
   <code><img title="Python" height="25" src="python-original.svg"></code>
   <code><img title="Javascript" height="25" src="javascript.svg"></code>
   <code><img title="Problem Solving" height="25" src="problemSolving.png"></code>
