@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
- <img src="https://github.com/CHINMAY02CS/CHINMAY02CS/blob/main/headerc.png">
+ <img src="https://github.com/CHINMAY02CS/CHINMAY02CS/blob/main/Headerc.png">
 
 </h1>
 
@@ -31,7 +31,7 @@
   <img title="CSS" height="50" src="css.svg">&nbsp;&nbsp;
  <img title="Javascript" height="50" src="javascript.svg">&nbsp;&nbsp;
  <img title="MongoDB" height="50" src="mongodb.png">&nbsp;&nbsp;
- <img title="Node Express" height="50" src="node.svg">&nbsp;&nbsp;
+ <img title="Node Express" height="50" src="node.png">&nbsp;&nbsp;
   <img title="React" height="50" src="react-original.svg">&nbsp;&nbsp;
   <img title="Git" height="50" src="git-original.svg">&nbsp;&nbsp;
   <img title="Visual Studio Code" height="50" src="vscode.png">&nbsp;&nbsp;
