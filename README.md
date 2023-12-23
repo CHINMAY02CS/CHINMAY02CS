@@ -6,7 +6,7 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/chinmaycs/" title="LinkedIn Profile"><img width="50" src="linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.linkedin.com/in/chinmaycs/" title="LinkedIn Profile"><img width="50" src="linkedin.svg"><h4>LinkedIn </h4> </a></code>
   <code><a href="https://www.leetcode.com/CHINMAYSINGH02CS" title="LeetCode Profile"><img width="50" src="LeetCode_logo_black.png"> LeetCode</a></code>
   <code><a href="https://www.instagram.com/chinmay_singh___/" title="Instagram Profile"><img width="50" src="instagram.svg"> Instagram</a></code>
 </h5>
