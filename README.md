@@ -6,8 +6,9 @@
 </h1>
 
 <h5 align="center">
-  <a href="https://www.linkedin.com/in/chinmaycs/" title="LinkedIn Profile"><img width="50" src="linkedin.svg"> <h4>LinkedIn </h4> </a><a href="https://www.leetcode.com/CHINMAYSINGH02CS" title="LeetCode Profile"><img width="50" src="LeetCode_logo_black.png"> <h4>LeetCode</h4> </a>
-  <a href="https://www.instagram.com/chinmay_singh___/" title="Instagram Profile"><img width="50" src="instagram.svg"><h4>Instagram</h4> </a>
+  <a href="https://www.linkedin.com/in/chinmaycs/" title="LinkedIn Profile"><img width="50" src="linkedin.svg">LinkedIn</a>
+ <a href="https://www.leetcode.com/CHINMAYSINGH02CS" title="LeetCode Profile"><img width="50" src="LeetCode_logo_black.png">LeetCode </a>
+  <a href="https://www.instagram.com/chinmay_singh___/" title="Instagram Profile"><img width="50" src="instagram.svg">Instagram</a>
 </h5>
 <br>
 <p align="center">
