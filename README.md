@@ -26,10 +26,10 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
- <img title="C++" height="50" src="cpp.svg">
-  <img title="HTML5" height="50" src="html5.svg">
-  <img title="CSS" height="50" src="css.svg">
- <img title="Javascript" height="50" src="javascript.svg">
+ <img title="C++" height="50" src="cpp.svg">&nbsp;&nbsp;
+  <img title="HTML5" height="50" src="html5.svg">&nbsp;&nbsp;
+  <img title="CSS" height="50" src="css.svg">&nbsp;&nbsp;
+ <img title="Javascript" height="50" src="javascript.svg">&nbsp;&nbsp;
  <img title="MongoDB" height="50" src="mongodb.png">
  <img title="Node Express" height="50" src="node.svg">
   <img title="React" height="50" src="react-original.svg">
