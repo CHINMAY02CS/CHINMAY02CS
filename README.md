@@ -12,7 +12,8 @@
 </h5>
 <br>
 <p align="center">
-  
+  Visit my portfolio -   <a href="https://courageous-pie-8689a3.netlify.app/" title="Portfolio" >Portfolio</a> &nbsp;&nbsp;
+<br>
   🔬 I'm currently studying for my Bachelors in Technology at IIIT Naya Raipur, Department of Electronics and Communication
   <br>
   💻 I love writing code and learning anything about it
@@ -40,7 +41,6 @@
   <img title="npm" height="50" src="npm.svg">&nbsp;&nbsp;
  <img title="Problem Solving" height="50" src="problemSolving.png">
 </p>
-
 
 
 
