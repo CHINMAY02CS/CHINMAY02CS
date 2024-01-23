@@ -14,9 +14,8 @@
 <p align="center">
   Visit my portfolio -   <a href="https://courageous-pie-8689a3.netlify.app/" title="Portfolio" >Portfolio</a> &nbsp;&nbsp;
 <br>
-  🔬 I'm currently studying for my Bachelors in Technology at IIIT Naya Raipur, Department of Electronics and Communication
-  <br>
-  💻 I love writing code and learning anything about it
+  🔬 I'm currently studying for my Bachelors in Technology at IIIT Naya Raipur,<br> Department of Electronics and Communication
+  
   <br>
   📚 I’m currently learning Web Development and DSA
   <br>
