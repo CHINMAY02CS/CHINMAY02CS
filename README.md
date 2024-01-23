@@ -13,12 +13,12 @@
 <br>
 <p align="center">
   Visit my portfolio -   <a href="https://courageous-pie-8689a3.netlify.app/" title="Portfolio" >Portfolio</a> &nbsp;&nbsp;
-<br>
+<br><br><br>
   🔬 I'm currently studying for my Bachelors in Technology at IIIT Naya Raipur,<br> Department of Electronics and Communication
   
-  <br>
+  <br><br><br>
   📚 I’m currently learning Web Development and DSA
-  <br>
+  <br><br><br>
   📫 How to reach me: <a href="mailto: dpsvn.chin06162@gmail.com">dpsvn.chin06162@gmail.com</a>
 </p>
 
