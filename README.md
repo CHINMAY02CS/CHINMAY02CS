@@ -16,6 +16,11 @@
 <br><br><br>
   🔬 I'm currently learning Web Development with contributing into projects in my company. I am working on my tech stack to improve it and introduce more technologies to gain the experience which can help me grow in future. I am also learning DSA to enhance my problem solving skills. Seeking to learn more ! ...
   <br>
+  
+  <br>
+  📫 How to reach me: <a href="mailto: dpsvn.chin06162@gmail.com">dpsvn.chin06162@gmail.com</a>
+</p>
+<p align="left">
    Bachelors in Technology at IIIT Naya Raipur,<br> Department of Electronics and Communication (2020 - 2024)
   <br>
  PCM - CBSE Board (2018 - 2020)
