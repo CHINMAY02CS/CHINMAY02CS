@@ -24,7 +24,6 @@
    Bachelors in Technology at IIIT Naya Raipur,<br> Department of Electronics and Communication (2020 - 2024)
   <br>
   <br>
-  <br>
  PCM - CBSE Board (2018 - 2020)
 </p>
 
