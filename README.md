@@ -23,9 +23,9 @@
 <p align="left">
    Bachelors in Technology at IIIT Naya Raipur,<br> Department of Electronics and Communication (2020 - 2024)
   <br>
- PCM - CBSE Board (2018 - 2020)
   <br>
-  📫 How to reach me: <a href="mailto: dpsvn.chin06162@gmail.com">dpsvn.chin06162@gmail.com</a>
+  <br>
+ PCM - CBSE Board (2018 - 2020)
 </p>
 
 <hr>
